@@ -6,7 +6,7 @@
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  creator="BRouter-1.6.1" version="1.1">
  <trk>
-  <name>Crets du Saint-Eynard</name>
+  <name>Les Crets du Saint-Eynard</name>
   <trkseg>
    <trkpt lon="5.777314" lat="45.259879"><ele>1006.75</ele></trkpt>
    <trkpt lon="5.777342" lat="45.259882"><ele>1007.0</ele></trkpt>
