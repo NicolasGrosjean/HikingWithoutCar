@@ -6,7 +6,7 @@
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  creator="BRouter-1.6.1" version="1.1">
  <trk>
-  <name>Mont Rachais</name>
+  <name>Mont Rachais - Bastille - La Tronche</name>
   <trkseg>
    <trkpt lon="5.720084" lat="45.189454"><ele>220.0</ele></trkpt>
    <trkpt lon="5.720015" lat="45.189495"><ele>219.75</ele></trkpt>
